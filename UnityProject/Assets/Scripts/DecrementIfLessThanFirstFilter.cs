@@ -2,6 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//Name: DecrementIfLessThanFirst
+//Description: Minus 1 from any number which is less than the first number in the array. Leave all other numbers unchanged.
+
 public class DecrementIfLessThanFirstFilter : MonoBehaviour
 {
 
